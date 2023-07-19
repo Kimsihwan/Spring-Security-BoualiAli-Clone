@@ -8,3 +8,10 @@ BoualiAli님의 Spring boot 3.0 + Spring Security 6 영상을 보고 따라하�
 ![초기설정](https://github.com/Kimsihwan/Spring-Security-BoualiAli-Clone/assets/37168993/d6e9017c-9008-417b-9842-9b908368e75e)
 
 
+## 사용 기술
+- Java 17
+- Spring Boot 3.1.1
+- Spring Framework 6.0.10
+- PostgreSQL 14.8
+  
+
